@@ -11,16 +11,16 @@ In this section, I will introduce the audience to the problem at hand: Quantifyi
 
 I will give example photos of degraded and restored WWII photos like such
 
-<img src="/imgs/degraded.jpeg" style="display: block; margin: auto;" />
+![degraded](/imgs/degraded.jpeg)
 
-![restore](/imgs/restored.jpg=250x250) 
+![restore](/imgs/restored.jpg) 
 
 
 ### Visualizing the Data
 
 Here I will show the audience data visualizations of my collected dataset, such as aggregated image statistics, feature/metric collections, etc.
 
-![chart](/imgs/chart.png=250x250)
+![chart](/imgs/chart.png)
 
 ### Visualizing the Results
 
