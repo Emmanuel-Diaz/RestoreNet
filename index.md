@@ -38,3 +38,5 @@ Original
 
 2100 Iterations
 ![2100_it](/imgs/2100_iters.png)
+
+with each iteration having a metric progression shown when calculated.
