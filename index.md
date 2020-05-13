@@ -21,9 +21,20 @@ I will give example photos of degraded and restored WWII photos like such
 Here I will show the audience data visualizations of my collected dataset, such as aggregated image statistics, feature/metric collections, etc.
 
 ![chart](/imgs/chart.png)
+![corr](/imgs/correlation_mat.png)
 
 ### Visualizing the Results
 
 Here I will display the intermediate and final results of the network, from the early training phase to the target outputs
 
-![chart](/imgs/fail)
+Original
+![original](/imgs/original_deg.png)
+
+200 Iterations
+![200_it](/imgs/200_iters.png)
+
+650 Iterations
+![650_it](/imgs/650_iters.png)
+
+2100 Iterations
+![2100_it](/imgs/2100_iters.png)
