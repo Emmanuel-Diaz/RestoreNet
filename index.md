@@ -11,19 +11,21 @@ In this section, I will introduce the audience to the problem at hand: Quantifyi
 
 I will give example photos of degraded and restored WWII photos like such
 
+
+<img width=300px src="https://github.com/Emmanuel-Diaz/RestoreNet/blob/gh-pages/imgs/degraded.jpeg?raw=true"/>
 ![degraded](/imgs/degraded.jpeg)
 
 ![restore](/imgs/restored.jpg) 
 
 
-### Visualizing the Data
+### Data
 
 Here I will show the audience data visualizations of my collected dataset, such as aggregated image statistics, feature/metric collections, etc.
 
 ![chart](/imgs/chart.png)
 ![corr](/imgs/correlation_mat.png)
 
-### Visualizing the Results
+### Results
 
 Here I will display the intermediate and final results of the network, from the early training phase to the target outputs
 
@@ -40,3 +42,12 @@ Original
 ![2100_it](/imgs/2100_iters.png)
 
 with each iteration having a metric progression shown when calculated.
+
+### Discussion
+
+
+
+### Conclusion
+
+
+
