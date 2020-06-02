@@ -1,8 +1,7 @@
 ---
 layout: page
 title: RestoreNet
-tagline: Restoring World War II Photographs
-description: 
+description: Quantifying the Restoration of World War II Photographs
 ---
 
 ### Introduction
@@ -34,13 +33,13 @@ Original
 ![original](/assets/original_deg.png)
 
 200 Iterations
-![200_it](/imgs/200_iters.png)
+![200_it](/assets/200_iters.png)
 
 650 Iterations
-![650_it](/imgs/650_iters.png)
+![650_it](/assets/650_iters.png)
 
 2100 Iterations
-![2100_it](/imgs/2100_iters.png)
+![2100_it](/assets/2100_iters.png)
 
 with each iteration having a metric progression shown when calculated.
 
