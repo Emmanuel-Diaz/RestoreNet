@@ -12,7 +12,7 @@ In this section, I will introduce the audience to the problem at hand: Quantifyi
 I will give example photos of degraded and restored WWII photos like such
 
 
-<img width=300px src="https://github.com/Emmanuel-Diaz/RestoreNet/blob/gh-pages/imgs/degraded.jpeg?raw=true"/>
+<img width=300px src="/imgs/degraded.jpeg"/>
 ![degraded](/imgs/degraded.jpeg)
 
 ![restore](/imgs/restored.jpg) 
