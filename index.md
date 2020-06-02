@@ -11,10 +11,8 @@ In this section, I will introduce the audience to the problem at hand: Quantifyi
 I will give example photos of degraded and restored WWII photos like such
 
 
-<img width=300px src="https://raw.githubusercontent.com/Emmanuel-Diaz/RestoreNet/gh-pages/assets/degraded.jpeg" />
 
-
-
+![degraded](/assets/degraded.jpeg)
 ![restore](/assets/restored.jpg) 
 
 
