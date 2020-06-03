@@ -14,7 +14,7 @@ It is widely known that old photos converted from film to digital might have exp
 ## Data Collected
 In order to understand the data population, I saved 3K images from [ww2db.com](https://ww2db.com/) and categorized them into 3 sections: Pre-War, Mid-War, Late-War
 
-![Distribution](/assets/chart.png)
+<center>![Distribution](/assets/chart.png)</center>
 
 
 `Here goes
