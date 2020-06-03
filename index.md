@@ -44,6 +44,8 @@ Now we try **selective mask inpainting** where we pass a custom mask where the p
 <p align="center"><strong>Selective Untrained Model</strong></p>
 ![Trained Gen](/assets/selective_mask_img_sheet.jpg)
 
+<p align="center"><strong>Selective Trained Model</strong></p>
+![Trained Gen](/assets/selective_mask_trained_img_sheet.jpg)
 
 
 
