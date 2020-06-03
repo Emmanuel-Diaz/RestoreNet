@@ -14,13 +14,16 @@ It is widely known that old photos converted from film to digital might have exp
 ## Data Collected
 In order to understand the data population, I saved 3K images from [ww2db.com](https://ww2db.com/) and categorized them into 3 sections: Pre-War, Mid-War, Late-War
 
-<center>![Distribution](/assets/chart.png)</center>
+![Distribution](/assets/chart.png)
 
 
 `Here goes
 new stats`
 **Interactive**
 ![Correlation](/assets/correlation_mat.png)
+
+
+![Mask Process](/assets/mask_process.png)
 
 
 ## Results
@@ -37,7 +40,7 @@ For the first test, we try **block inpainting** where a center block is inpainte
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ## Conclusion
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
 ![Iterations](/assets/200_iters.png)
 
 
