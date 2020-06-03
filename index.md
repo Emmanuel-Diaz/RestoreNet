@@ -23,6 +23,8 @@ new stats`
 ![Correlation](/assets/correlation_mat.png)
 
 
+## Methods
+We create a mask along the degraded imperfections, we want these areas to be restored.
 ![Mask Process](/assets/mask_process.png)
 
 
@@ -34,6 +36,15 @@ For the first test, we try **block inpainting** where a center block is inpainte
 
 <p align="center"><strong>Group Trained Model</strong></p>
 ![Trained Gen](/assets/train_gen_img_sheet.jpg)
+
+Now we try **selective mask inpainting** where we pass a custom mask where the photo imperfections are
+<p align="center"><strong>Selective Untrained Model</strong></p>
+![Trained Gen](/assets/selective_mask_img_sheet.jpg)
+
+
+
+
+
 
 
 ## Discussion
