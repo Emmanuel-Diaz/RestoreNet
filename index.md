@@ -17,10 +17,13 @@ In order to understand the data population, I saved 3K images from [ww2db.com](h
 ![Distribution](/assets/chart.png)
 
 
-`Here goes
-new stats`
-**Interactive**
-![Correlation](/assets/correlation_mat.png)
+Utilizing a blob detector and using KMeans clustering with two simple features, I found two clusters.
+![blob_scatter](/assets/blob_scatter.png)
+
+Here is an example of images from each cluster
+![blob_detector](/assets/blob_detector.png)
+
+
 
 
 ## Methods
@@ -40,9 +43,6 @@ For the first test, we try **block inpainting** where a center block is inpainte
 Now we try **selective mask inpainting** where we pass a custom mask where the photo imperfections are
 <p align="center"><strong>Selective Untrained Model</strong></p>
 ![Trained Gen](/assets/selective_mask_img_sheet.jpg)
-
-
-
 
 
 
